@@ -1,1 +1,1 @@
-web: 'npm run serve && npm run build'
+web: sh -c 'node build'
